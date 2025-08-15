@@ -1,0 +1,166 @@
+[
+  {
+    "reference_answer": "Malaria is transmitted by mosquitoes.",
+    "student_answer": "Malaria comes from mosquitoes.",
+    "score": 5,
+    "language": "en"
+  },
+  {
+    "reference_answer": "Wash hands before eating.",
+    "student_answer": "Clean hands before food.",
+    "score": 4,
+    "language": "en"
+  },
+  {
+    "reference_answer": "Vaccines prevent diseases.",
+    "student_answer": "I don't know about vaccines.",
+    "score": 1,
+    "language": "en"
+  },
+  {
+    "reference_answer": "Malariya iturwa n'inzige.",
+    "student_answer": "Malariya iturwa n'inzige.",
+    "score": 5,
+    "language": "kin"
+  },
+  {
+    "reference_answer": "The main malaria prevention methods include using insecticide-treated bed nets, indoor residual spraying, eliminating stagnant water, using repellents, and seeking early treatment.",
+    "student_answer": "Malaria prevention involves sleeping under treated nets, spraying walls with insecticide, removing water containers, applying mosquito repellent, and getting treatment early.",
+    "score": 5,
+    "language": "en",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "The main malaria prevention methods include using insecticide-treated bed nets, indoor residual spraying, eliminating stagnant water, using repellents, and seeking early treatment.",
+    "student_answer": "Sleep under nets and spray house to prevent malaria.",
+    "score": 2,
+    "language": "en",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "Uburyo bwo kurinda malariya ni ukoresha ubunyangamugayo bwemewe, gusiga amabuye y'ubuvuzi mu nzu, gusiba amazi atemba, gukoresha ibikoresho byo kurinda inzige, no gufata ubuvuzi vuba.",
+    "student_answer": "Kurinda malariya dukwiye gukoresha ubunyangamugayo buri joro, gusiga amabuye y'ubuvuzi mu nzu, gusiba amazi atemba, gukoresha ibikoresho byo kurinda inzige, no kujya ku kigo nderabuzima iyo dufite umuriro.",
+    "score": 5,
+    "language": "kin",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "Uburyo bwo kurinda malariya ni ukoresha ubunyangamugayo bwemewe, gusiga amabuye y'ubuvuzi mu nzu, gusiba amazi atemba, gukoresha ibikoresho byo kurinda inzige, no gufata ubuvuzi vuba.",
+    "student_answer": "Sinzi uko kurinda malariya.",
+    "score": 1,
+    "language": "kin",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "Pregnant women should eat diverse foods including fruits, vegetables, proteins like beans and meat, dairy products, and take supplements like folic acid.",
+    "student_answer": "Pregnant women should eat food.",
+    "score": 2,
+    "language": "en",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "Pregnant women should eat diverse foods including fruits, vegetables, proteins like beans and meat, dairy products, and take supplements like folic acid.",
+    "student_answer": "Eat fruits and vegetables when pregnant.",
+    "score": 3,
+    "language": "en",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "Abagore batwite bagomba kurya ibiryo bitandukanye birimo imbuto n'imboga, ibiryo by'ubwoko nka ibishyimbo n'inyama, ibiryo by'ubworozi, no gufata ibikoresho nka folic acid.",
+    "student_answer": "Sinzi ibyo abagore batwite bagomba kurya.",
+    "score": 1,
+    "language": "kin",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "Abagore batwite bagomba kurya ibiryo bitandukanye birimo imbuto n'imboga, ibiryo by'ubwoko nka ibishyimbo n'inyama, ibiryo by'ubworozi, no gufata ibikoresho nka folic acid.",
+    "student_answer": "Abagore batwite bagomba kurya ibiryo bitandukanye: imbuto, imboga, ibiryo by'ubwoko, ibiryo by'ubworozi, n'ibikoresho bya folic acid.",
+    "score": 5,
+    "language": "kin",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "Signs of dehydration in children include dry mouth, sunken eyes, reduced urination, and lethargy.",
+    "student_answer": "I don't know the signs of dehydration.",
+    "score": 1,
+    "language": "en",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Signs of dehydration in children include dry mouth, sunken eyes, reduced urination, and lethargy.",
+    "student_answer": "Children are thirsty and tired when dehydrated.",
+    "score": 3,
+    "language": "en",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Ibimenyetso byo kutagira amazi mu mubiri by'abana ni umunwa utose, amaso yatse, kudashobora kw'ijoro, no kuba banyoroshye.",
+    "student_answer": "Abana bwerekana ko batagira amazi mu mubiri binyuze mu munwa utose, amaso yatse, kudashobora kw'ijoro, no kuba banyoroshye cyane.",
+    "score": 5,
+    "language": "kin",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Ibimenyetso byo kutagira amazi mu mubiri by'abana ni umunwa utose, amaso yatse, kudashobora kw'ijoro, no kuba banyoroshye.",
+    "student_answer": "Abana banyota kandi banyoroshye iyo batagira amazi mu mubiri.",
+    "score": 3,
+    "language": "kin",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Proper hand hygiene involves washing hands with soap and clean water for at least 20 seconds, especially before eating and after using the toilet.",
+    "student_answer": "Clean hands with water.",
+    "score": 2,
+    "language": "en",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "Proper hand hygiene involves washing hands with soap and clean water for at least 20 seconds, especially before eating and after using the toilet.",
+    "student_answer": "Good hand washing means using soap and clean water for 20 seconds, before meals and after bathroom use.",
+    "score": 5,
+    "language": "en",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "Gukaraba amaboko neza ni ukubyongera amaboko doreye n'isabuni n'amazi meza amasegonda 20, cyane cyane mbere yo kurya n'inyuma yo gukoresha ubwiherero.",
+    "student_answer": "Karaba amaboko doreye n'isabuni mbere yo kurya.",
+    "score": 3,
+    "language": "kin",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "Gukaraba amaboko neza ni ukubyongera amaboko doreye n'isabuni n'amazi meza amasegonda 20, cyane cyane mbere yo kurya n'inyuma yo gukoresha ubwiherero.",
+    "student_answer": "Gukaraba amaboko neza ni ukubyongera isabuni n'amazi amasegonda 20+, cyane cyane mbere yo kurya n'inyuma yo gukoresha ubwiherero.",
+    "score": 5,
+    "language": "kin",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "Vaccination is important because it protects children from serious diseases, prevents outbreaks, and saves lives by building immunity.",
+    "student_answer": "Vaccines protect children from diseases.",
+    "score": 3,
+    "language": "en",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Vaccination is important because it protects children from serious diseases, prevents outbreaks, and saves lives by building immunity.",
+    "student_answer": "Vaccination helps children.",
+    "score": 2,
+    "language": "en",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Ubwishingizi ni ngombwa kuko burinda abana indwara zikomeye, burinda indwara kubyongera, kandi buraba ubuzima dushyiraho ubwishingizi.",
+    "student_answer": "Ubwishingizi burinda abana indwara.",
+    "score": 3,
+    "language": "kin",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Ubwishingizi ni ngombwa kuko burinda abana indwara zikomeye, burinda indwara kubyongera, kandi buraba ubuzima dushyiraho ubwishingizi.",
+    "student_answer": "Ubwishingizi burinda abana indwara.",
+    "score": 3,
+    "language": "kin",
+    "topic": "vaccination_importance"
+  }
+]
