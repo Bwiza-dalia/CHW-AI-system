@@ -245,42 +245,9 @@ print(f'Score: {result[\"score\"]}, Confidence: {result[\"confidence\"]}')
 "
 ```
 
-## 🤝 Contributing
-
-### Guidelines
-
-1. **Code Style**: Follow PEP 8 standards
-2. **Documentation**: Add docstrings for new functions
-3. **Testing**: Include test cases for new features
-4. **Bilingual**: Ensure both English and Kinyarwanda support
-
-### Areas for Improvement
-
-1. **Advanced NLP**: Sentence transformers, BERT models
-2. **More Languages**: Extend to other local languages
-3. **Domain Expansion**: Beyond health topics
-4. **Real-time Learning**: Online model updates
-5. **API Integration**: REST API for external systems
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - **NLTK**: Natural language processing toolkit
 - **Scikit-learn**: Machine learning library
 - **Streamlit**: Web application framework
 - **Community Health Workers**: For their valuable work and feedback
-
-## 📞 Support
-
-For questions, issues, or contributions:
-
-1. **Issues**: Create an issue on GitHub
-2. **Documentation**: Check this README and code comments
-3. **Community**: Join discussions in the project repository
-
----
-
-**Note**: This system is designed for educational and training purposes. For production use in healthcare settings, additional validation and regulatory compliance may be required.
