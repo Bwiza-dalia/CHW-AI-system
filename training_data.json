@@ -1,0 +1,772 @@
+[
+  {
+    "reference_answer": "Pregnant women should eat diverse foods including fruits, vegetables, proteins like beans and meat, dairy products, and take supplements like folic acid.",
+    "student_answer": "Eat fruits and vegetables when pregnant.",
+    "score": 3,
+    "language": "en",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "Vaccination is important because it protects children from serious diseases, prevents outbreaks, and saves lives by building immunity.",
+    "student_answer": "I don't know the answer to this question.",
+    "score": 1,
+    "language": "en",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Vaccination is important because it protects children from serious diseases, prevents outbreaks, and saves lives by building immunity.",
+    "student_answer": "Vaccination is important because it protects children from",
+    "score": 3,
+    "language": "en",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Ubwishingizi ni ngombwa kuko burinda abana indwara zikomeye, burinda indwara kubyongera, kandi buraba ubuzima dushyiraho ubwishingizi.",
+    "student_answer": "Ubwishingizi ni ngombwa kuko burinda abana indwara zikomeye, burinda indwara kubyongera, kandi buraba ubuzima dushyiraho ubwishingizi.",
+    "score": 5,
+    "language": "kin",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Ibimenyetso byo kutagira amazi mu mubiri by'abana ni umunwa utose, amaso yatse, kudashobora kw'ijoro, no kuba banyoroshye.",
+    "student_answer": "Ibimenyetso byo kutagira amazi mu mubiri by'abana ni umunwa utose, amaso yatse, kudashobora kw'ijoro, no kuba banyoroshye cyane.",
+    "score": 5,
+    "language": "kin",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Uburyo bwo kurinda malariya ni ukoresha ubunyangamugayo bwemewe, gusiga amabuye y'ubuvuzi mu nzu, gusiba amazi atemba, gukoresha ibikoresho byo kurinda inzige, no gufata ubuvuzi vuba.",
+    "student_answer": "Sinzi igisubizo cy'iki kibazo.",
+    "score": 1,
+    "language": "kin",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "Abagore batwite bagomba kurya ibiryo bitandukanye birimo imbuto n'imboga, ibiryo by'ubwoko nka ibishyimbo n'inyama, ibiryo by'ubworozi, no gufata ibikoresho nka folic acid.",
+    "student_answer": "Abagore batwite bagomba kurya ibiryo bitandukanye birimo",
+    "score": 3,
+    "language": "kin",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "Proper hand hygiene involves washing hands with soap and clean water for at least 20 seconds, especially before eating and after using the toilet.",
+    "student_answer": "Proper hand hygiene involves washing hands with soap and",
+    "score": 3,
+    "language": "en",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "Ubwishingizi ni ngombwa kuko burinda abana indwara zikomeye, burinda indwara kubyongera, kandi buraba ubuzima dushyiraho ubwishingizi.",
+    "student_answer": "Ubwishingizi ni ngombwa kuko burinda abana indwara zikomeye, burinda indwara kubyongera, kandi buraba ubuzima dushyiraho ubwishingizi.",
+    "score": 5,
+    "language": "kin",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Ubwishingizi ni ngombwa kuko burinda abana indwara zikomeye, burinda indwara kubyongera, kandi buraba ubuzima dushyiraho ubwishingizi.",
+    "student_answer": "Nkeneye kwiga kurushaho kuri iki kigize.",
+    "score": 1,
+    "language": "kin",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Ibimenyetso byo kutagira amazi mu mubiri by'abana ni umunwa utose, amaso yatse, kudashobora kw'ijoro, no kuba banyoroshye.",
+    "student_answer": "Abana bwerekana ko batagira amazi mu mubiri binyuze mu munwa utose, amaso yatse, kudashobora kw'ijoro, no kuba banyoroshye cyane.",
+    "score": 5,
+    "language": "kin",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Signs of dehydration in children include dry mouth, sunken eyes, reduced urination, and lethargy.",
+    "student_answer": "Signs of dehydration in children include dry",
+    "score": 2,
+    "language": "en",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "The main malaria prevention methods include using insecticide-treated bed nets, indoor residual spraying, eliminating stagnant water, using repellents, and seeking early treatment.",
+    "student_answer": "To prevent malaria, we should use treated bed nets every night, spray homes with insecticide, remove standing water, use repellent creams, and go to health center when we have fever.",
+    "score": 5,
+    "language": "en",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "Proper hand hygiene involves washing hands with soap and clean water for at least 20 seconds, especially before eating and after using the toilet.",
+    "student_answer": "Clean hands with water.",
+    "score": 2,
+    "language": "en",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "Ubwishingizi ni ngombwa kuko burinda abana indwara zikomeye, burinda indwara kubyongera, kandi buraba ubuzima dushyiraho ubwishingizi.",
+    "student_answer": "Ubwishingizi ni ngombwa kuko burinda abana indwara zikomeye, burinda indwara kubyongera, kandi buraba ubuzima dushyiraho ubwishingizi.",
+    "score": 5,
+    "language": "kin",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Proper hand hygiene involves washing hands with soap and clean water for at least 20 seconds, especially before eating and after using the toilet.",
+    "student_answer": "Wash hands with soap before eating.",
+    "score": 3,
+    "language": "en",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "Gukaraba amaboko neza ni ukubyongera amaboko doreye n'isabuni n'amazi meza amasegonda 20, cyane cyane mbere yo kurya n'inyuma yo gukoresha ubwiherero.",
+    "student_answer": "Gukaraba amaboko neza ni ukubyongera isabuni n'amazi amasegonda 20+, cyane cyane mbere yo kurya n'inyuma yo gukoresha ubwiherero.",
+    "score": 5,
+    "language": "kin",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "Abagore batwite bagomba kurya ibiryo bitandukanye birimo imbuto n'imboga, ibiryo by'ubwoko nka ibishyimbo n'inyama, ibiryo by'ubworozi, no gufata ibikoresho nka folic acid.",
+    "student_answer": "Abagore batwite bagomba kurya ibiryo bitandukanye birimo imbuto",
+    "score": 2,
+    "language": "kin",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "Gukaraba amaboko neza ni ukubyongera amaboko doreye n'isabuni n'amazi meza amasegonda 20, cyane cyane mbere yo kurya n'inyuma yo gukoresha ubwiherero.",
+    "student_answer": "Ibi ntibihuye n'ibyo nizeye.",
+    "score": 1,
+    "language": "kin",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "Pregnant women should eat diverse foods including fruits, vegetables, proteins like beans and meat, dairy products, and take supplements like folic acid.",
+    "student_answer": "Pregnant women need to eat fruits, vegetables, beans, meat, milk products and take folic acid for the baby's health.",
+    "score": 5,
+    "language": "en",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "Ibimenyetso byo kutagira amazi mu mubiri by'abana ni umunwa utose, amaso yatse, kudashobora kw'ijoro, no kuba banyoroshye.",
+    "student_answer": "Sinzi igisubizo cy'iki kibazo.",
+    "score": 1,
+    "language": "kin",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Uburyo bwo kurinda malariya ni ukoresha ubunyangamugayo bwemewe, gusiga amabuye y'ubuvuzi mu nzu, gusiba amazi atemba, gukoresha ibikoresho byo kurinda inzige, no gufata ubuvuzi vuba.",
+    "student_answer": "Kurinda malariya ni ukuryama munsi y'ubunyangamugayo, gusiga amabuye y'ubuvuzi ku maso, gusiba ibikoresho by'amazi, gukoresha ibikoresho byo kurinda inzige, no gufata ubuvuzi vuba.",
+    "score": 5,
+    "language": "kin",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "Uburyo bwo kurinda malariya ni ukoresha ubunyangamugayo bwemewe, gusiga amabuye y'ubuvuzi mu nzu, gusiba amazi atemba, gukoresha ibikoresho byo kurinda inzige, no gufata ubuvuzi vuba.",
+    "student_answer": "Kurinda malariya dukwiye gukoresha ubunyangamugayo buri joro, gusiga amabuye y'ubuvuzi mu nzu, gusiba amazi atemba, gukoresha ibikoresho byo kurinda inzige, no kujya ku kigo nderabuzima iyo dufite umuriro.",
+    "score": 5,
+    "language": "kin",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "Pregnant women should eat diverse foods including fruits, vegetables, proteins like beans and meat, dairy products, and take supplements like folic acid.",
+    "student_answer": "Pregnant women should eat diverse foods including fruits, vegetables, proteins",
+    "score": 3,
+    "language": "en",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "Gukaraba amaboko neza ni ukubyongera amaboko doreye n'isabuni n'amazi meza amasegonda 20, cyane cyane mbere yo kurya n'inyuma yo gukoresha ubwiherero.",
+    "student_answer": "Gukaraba amaboko neza ni ukubyongera amaboko doreye n'isabuni n'amazi meza",
+    "score": 3,
+    "language": "kin",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "Ubwishingizi ni ngombwa kuko burinda abana indwara zikomeye, burinda indwara kubyongera, kandi buraba ubuzima dushyiraho ubwishingizi.",
+    "student_answer": "Ubwishingizi ni ngombwa kuko burinda abana indwara",
+    "score": 3,
+    "language": "kin",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Signs of dehydration in children include dry mouth, sunken eyes, reduced urination, and lethargy.",
+    "student_answer": "I don't know the signs of dehydration.",
+    "score": 1,
+    "language": "en",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Abagore batwite bagomba kurya ibiryo bitandukanye birimo imbuto n'imboga, ibiryo by'ubwoko nka ibishyimbo n'inyama, ibiryo by'ubworozi, no gufata ibikoresho nka folic acid.",
+    "student_answer": "Sinzi igisubizo cy'iki kibazo.",
+    "score": 1,
+    "language": "kin",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "Ibimenyetso byo kutagira amazi mu mubiri by'abana ni umunwa utose, amaso yatse, kudashobora kw'ijoro, no kuba banyoroshye.",
+    "student_answer": "Ibimenyetso byo kutagira amazi mu mubiri by'abana",
+    "score": 2,
+    "language": "kin",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Vaccination is important because it protects children from serious diseases, prevents outbreaks, and saves lives by building immunity.",
+    "student_answer": "Vaccines are crucial as they protect children from dangerous diseases, stop disease spread, and save lives through immunity.",
+    "score": 5,
+    "language": "en",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Pregnant women should eat diverse foods including fruits, vegetables, proteins like beans and meat, dairy products, and take supplements like folic acid.",
+    "student_answer": "Pregnant women should eat diverse foods including fruits,",
+    "score": 2,
+    "language": "en",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "Signs of dehydration in children include dry mouth, sunken eyes, reduced urination, and lethargy.",
+    "student_answer": "Signs of dehydration in",
+    "score": 2,
+    "language": "en",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Proper hand hygiene involves washing hands with soap and clean water for at least 20 seconds, especially before eating and after using the toilet.",
+    "student_answer": "Hand hygiene requires washing with soap and water for 20+ seconds, particularly before eating and after toilet use.",
+    "score": 5,
+    "language": "en",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "The main malaria prevention methods include using insecticide-treated bed nets, indoor residual spraying, eliminating stagnant water, using repellents, and seeking early treatment.",
+    "student_answer": "Malaria prevention involves sleeping under treated nets, spraying walls with insecticide, removing water containers, applying mosquito repellent, and getting treatment early.",
+    "score": 5,
+    "language": "en",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "Gukaraba amaboko neza ni ukubyongera amaboko doreye n'isabuni n'amazi meza amasegonda 20, cyane cyane mbere yo kurya n'inyuma yo gukoresha ubwiherero.",
+    "student_answer": "Sinzi uko karaba amaboko neza.",
+    "score": 1,
+    "language": "kin",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "Gukaraba amaboko neza ni ukubyongera amaboko doreye n'isabuni n'amazi meza amasegonda 20, cyane cyane mbere yo kurya n'inyuma yo gukoresha ubwiherero.",
+    "student_answer": "Sukura amaboko doreye n'amazi.",
+    "score": 2,
+    "language": "kin",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "Ubwishingizi ni ngombwa kuko burinda abana indwara zikomeye, burinda indwara kubyongera, kandi buraba ubuzima dushyiraho ubwishingizi.",
+    "student_answer": "Ibi ntibihuye n'ibyo nizeye.",
+    "score": 1,
+    "language": "kin",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Pregnant women should eat diverse foods including fruits, vegetables, proteins like beans and meat, dairy products, and take supplements like folic acid.",
+    "student_answer": "I need to study more about this topic.",
+    "score": 1,
+    "language": "en",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "Proper hand hygiene involves washing hands with soap and clean water for at least 20 seconds, especially before eating and after using the toilet.",
+    "student_answer": "Clean hands with water.",
+    "score": 2,
+    "language": "en",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "Uburyo bwo kurinda malariya ni ukoresha ubunyangamugayo bwemewe, gusiga amabuye y'ubuvuzi mu nzu, gusiba amazi atemba, gukoresha ibikoresho byo kurinda inzige, no gufata ubuvuzi vuba.",
+    "student_answer": "Koresha ubunyangamugayo no gusiba amazi atemba kurinda malariya.",
+    "score": 3,
+    "language": "kin",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "The main malaria prevention methods include using insecticide-treated bed nets, indoor residual spraying, eliminating stagnant water, using repellents, and seeking early treatment.",
+    "student_answer": "I need to study more about this topic.",
+    "score": 1,
+    "language": "en",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "Ibimenyetso byo kutagira amazi mu mubiri by'abana ni umunwa utose, amaso yatse, kudashobora kw'ijoro, no kuba banyoroshye.",
+    "student_answer": "Ibimenyetso byo kutagira amazi mu mubiri by'abana",
+    "score": 2,
+    "language": "kin",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Gukaraba amaboko neza ni ukubyongera amaboko doreye n'isabuni n'amazi meza amasegonda 20, cyane cyane mbere yo kurya n'inyuma yo gukoresha ubwiherero.",
+    "student_answer": "Gukaraba amaboko neza ni ukubyongera isabuni n'amazi amasegonda 20+, cyane cyane mbere yo kurya n'inyuma yo gukoresha ubwiherero.",
+    "score": 5,
+    "language": "kin",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "Vaccination is important because it protects children from serious diseases, prevents outbreaks, and saves lives by building immunity.",
+    "student_answer": "Vaccination is important because it protects",
+    "score": 2,
+    "language": "en",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Proper hand hygiene involves washing hands with soap and clean water for at least 20 seconds, especially before eating and after using the toilet.",
+    "student_answer": "Proper hand hygiene involves washing hands with soap and",
+    "score": 2,
+    "language": "en",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "The main malaria prevention methods include using insecticide-treated bed nets, indoor residual spraying, eliminating stagnant water, using repellents, and seeking early treatment.",
+    "student_answer": "I don't know the answer to this question.",
+    "score": 1,
+    "language": "en",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "Abagore batwite bagomba kurya ibiryo bitandukanye birimo imbuto n'imboga, ibiryo by'ubwoko nka ibishyimbo n'inyama, ibiryo by'ubworozi, no gufata ibikoresho nka folic acid.",
+    "student_answer": "Abagore batwite bagomba kurya ibiryo bitandukanye: imbuto, imboga, ibiryo by'ubwoko, ibiryo by'ubworozi, n'ibikoresho bya folic acid.",
+    "score": 5,
+    "language": "kin",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "Pregnant women should eat diverse foods including fruits, vegetables, proteins like beans and meat, dairy products, and take supplements like folic acid.",
+    "student_answer": "I don't know the answer to this question.",
+    "score": 1,
+    "language": "en",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "Uburyo bwo kurinda malariya ni ukoresha ubunyangamugayo bwemewe, gusiga amabuye y'ubuvuzi mu nzu, gusiba amazi atemba, gukoresha ibikoresho byo kurinda inzige, no gufata ubuvuzi vuba.",
+    "student_answer": "Uburyo bwo kurinda malariya ni ukoresha ubunyangamugayo bwemewe, gusiga amabuye y'ubuvuzi",
+    "score": 2,
+    "language": "kin",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "Abagore batwite bagomba kurya ibiryo bitandukanye birimo imbuto n'imboga, ibiryo by'ubwoko nka ibishyimbo n'inyama, ibiryo by'ubworozi, no gufata ibikoresho nka folic acid.",
+    "student_answer": "Nkeneye kwiga kurushaho kuri iki kigize.",
+    "score": 1,
+    "language": "kin",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "Ibimenyetso byo kutagira amazi mu mubiri by'abana ni umunwa utose, amaso yatse, kudashobora kw'ijoro, no kuba banyoroshye.",
+    "student_answer": "Ibi ntibihuye n'ibyo nizeye.",
+    "score": 1,
+    "language": "kin",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Abagore batwite bagomba kurya ibiryo bitandukanye birimo imbuto n'imboga, ibiryo by'ubwoko nka ibishyimbo n'inyama, ibiryo by'ubworozi, no gufata ibikoresho nka folic acid.",
+    "student_answer": "Abagore batwite bagomba kurya ibiryo bitandukanye birimo imbuto n'imboga, ibiryo by'ubwoko",
+    "score": 2,
+    "language": "kin",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "Uburyo bwo kurinda malariya ni ukoresha ubunyangamugayo bwemewe, gusiga amabuye y'ubuvuzi mu nzu, gusiba amazi atemba, gukoresha ibikoresho byo kurinda inzige, no gufata ubuvuzi vuba.",
+    "student_answer": "Uburyo bwo kurinda malariya ni ukoresha ubunyangamugayo bwemewe, gusiga amabuye y'ubuvuzi",
+    "score": 2,
+    "language": "kin",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "Vaccination is important because it protects children from serious diseases, prevents outbreaks, and saves lives by building immunity.",
+    "student_answer": "Vaccines protect children from diseases.",
+    "score": 3,
+    "language": "en",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Ubwishingizi ni ngombwa kuko burinda abana indwara zikomeye, burinda indwara kubyongera, kandi buraba ubuzima dushyiraho ubwishingizi.",
+    "student_answer": "Sinzi kuki ubwishingizi ari ngombwa.",
+    "score": 1,
+    "language": "kin",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Abagore batwite bagomba kurya ibiryo bitandukanye birimo imbuto n'imboga, ibiryo by'ubwoko nka ibishyimbo n'inyama, ibiryo by'ubworozi, no gufata ibikoresho nka folic acid.",
+    "student_answer": "Ibi ntibihuye n'ibyo nizeye.",
+    "score": 1,
+    "language": "kin",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "Vaccination is important because it protects children from serious diseases, prevents outbreaks, and saves lives by building immunity.",
+    "student_answer": "Vaccination helps children.",
+    "score": 2,
+    "language": "en",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Vaccination is important because it protects children from serious diseases, prevents outbreaks, and saves lives by building immunity.",
+    "student_answer": "I don't know why vaccination is important.",
+    "score": 1,
+    "language": "en",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Abagore batwite bagomba kurya ibiryo bitandukanye birimo imbuto n'imboga, ibiryo by'ubwoko nka ibishyimbo n'inyama, ibiryo by'ubworozi, no gufata ibikoresho nka folic acid.",
+    "student_answer": "Rya imbuto n'imboga iyo ufite inda.",
+    "score": 3,
+    "language": "kin",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "Signs of dehydration in children include dry mouth, sunken eyes, reduced urination, and lethargy.",
+    "student_answer": "I don't know the signs of dehydration.",
+    "score": 1,
+    "language": "en",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Signs of dehydration in children include dry mouth, sunken eyes, reduced urination, and lethargy.",
+    "student_answer": "This is not related to what I learned.",
+    "score": 1,
+    "language": "en",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Gukaraba amaboko neza ni ukubyongera amaboko doreye n'isabuni n'amazi meza amasegonda 20, cyane cyane mbere yo kurya n'inyuma yo gukoresha ubwiherero.",
+    "student_answer": "Sinzi igisubizo cy'iki kibazo.",
+    "score": 1,
+    "language": "kin",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "Proper hand hygiene involves washing hands with soap and clean water for at least 20 seconds, especially before eating and after using the toilet.",
+    "student_answer": "I don't know how to wash hands properly.",
+    "score": 1,
+    "language": "en",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "The main malaria prevention methods include using insecticide-treated bed nets, indoor residual spraying, eliminating stagnant water, using repellents, and seeking early treatment.",
+    "student_answer": "This is not related to what I learned.",
+    "score": 1,
+    "language": "en",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "Uburyo bwo kurinda malariya ni ukoresha ubunyangamugayo bwemewe, gusiga amabuye y'ubuvuzi mu nzu, gusiba amazi atemba, gukoresha ibikoresho byo kurinda inzige, no gufata ubuvuzi vuba.",
+    "student_answer": "Ibi ntibihuye n'ibyo nizeye.",
+    "score": 1,
+    "language": "kin",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "Uburyo bwo kurinda malariya ni ukoresha ubunyangamugayo bwemewe, gusiga amabuye y'ubuvuzi mu nzu, gusiba amazi atemba, gukoresha ibikoresho byo kurinda inzige, no gufata ubuvuzi vuba.",
+    "student_answer": "Uburyo bwo kurinda malariya ni ukoresha ubunyangamugayo bwemewe, gusiga amabuye y'ubuvuzi mu",
+    "score": 2,
+    "language": "kin",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "Signs of dehydration in children include dry mouth, sunken eyes, reduced urination, and lethargy.",
+    "student_answer": "Children are thirsty and tired when dehydrated.",
+    "score": 3,
+    "language": "en",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Signs of dehydration in children include dry mouth, sunken eyes, reduced urination, and lethargy.",
+    "student_answer": "I need to study more about this topic.",
+    "score": 1,
+    "language": "en",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Uburyo bwo kurinda malariya ni ukoresha ubunyangamugayo bwemewe, gusiga amabuye y'ubuvuzi mu nzu, gusiba amazi atemba, gukoresha ibikoresho byo kurinda inzige, no gufata ubuvuzi vuba.",
+    "student_answer": "Koresha ubunyangamugayo no gusiba amazi atemba kurinda malariya.",
+    "score": 3,
+    "language": "kin",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "The main malaria prevention methods include using insecticide-treated bed nets, indoor residual spraying, eliminating stagnant water, using repellents, and seeking early treatment.",
+    "student_answer": "Sleep under nets and spray house to prevent malaria.",
+    "score": 2,
+    "language": "en",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "The main malaria prevention methods include using insecticide-treated bed nets, indoor residual spraying, eliminating stagnant water, using repellents, and seeking early treatment.",
+    "student_answer": "Sleep under nets and spray house to prevent malaria.",
+    "score": 2,
+    "language": "en",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "The main malaria prevention methods include using insecticide-treated bed nets, indoor residual spraying, eliminating stagnant water, using repellents, and seeking early treatment.",
+    "student_answer": "The main malaria prevention methods include using insecticide-treated bed",
+    "score": 2,
+    "language": "en",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "Ibimenyetso byo kutagira amazi mu mubiri by'abana ni umunwa utose, amaso yatse, kudashobora kw'ijoro, no kuba banyoroshye.",
+    "student_answer": "Ibimenyetso byo kutagira amazi mu mubiri by'abana",
+    "score": 3,
+    "language": "kin",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Proper hand hygiene involves washing hands with soap and clean water for at least 20 seconds, especially before eating and after using the toilet.",
+    "student_answer": "This is not related to what I learned.",
+    "score": 1,
+    "language": "en",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "Proper hand hygiene involves washing hands with soap and clean water for at least 20 seconds, especially before eating and after using the toilet.",
+    "student_answer": "I don't know the answer to this question.",
+    "score": 1,
+    "language": "en",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "Ubwishingizi ni ngombwa kuko burinda abana indwara zikomeye, burinda indwara kubyongera, kandi buraba ubuzima dushyiraho ubwishingizi.",
+    "student_answer": "Sinzi igisubizo cy'iki kibazo.",
+    "score": 1,
+    "language": "kin",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Abagore batwite bagomba kurya ibiryo bitandukanye birimo imbuto n'imboga, ibiryo by'ubwoko nka ibishyimbo n'inyama, ibiryo by'ubworozi, no gufata ibikoresho nka folic acid.",
+    "student_answer": "Rya imbuto n'imboga iyo ufite inda.",
+    "score": 3,
+    "language": "kin",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "The main malaria prevention methods include using insecticide-treated bed nets, indoor residual spraying, eliminating stagnant water, using repellents, and seeking early treatment.",
+    "student_answer": "The main malaria prevention methods include using",
+    "score": 2,
+    "language": "en",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "Signs of dehydration in children include dry mouth, sunken eyes, reduced urination, and lethargy.",
+    "student_answer": "Signs of dehydration in children",
+    "score": 3,
+    "language": "en",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Pregnant women should eat diverse foods including fruits, vegetables, proteins like beans and meat, dairy products, and take supplements like folic acid.",
+    "student_answer": "I don't know what pregnant women should eat.",
+    "score": 1,
+    "language": "en",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "Pregnant women should eat diverse foods including fruits, vegetables, proteins like beans and meat, dairy products, and take supplements like folic acid.",
+    "student_answer": "I don't know what pregnant women should eat.",
+    "score": 1,
+    "language": "en",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "Vaccination is important because it protects children from serious diseases, prevents outbreaks, and saves lives by building immunity.",
+    "student_answer": "I need to study more about this topic.",
+    "score": 1,
+    "language": "en",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Ibimenyetso byo kutagira amazi mu mubiri by'abana ni umunwa utose, amaso yatse, kudashobora kw'ijoro, no kuba banyoroshye.",
+    "student_answer": "Abana batagira amazi mu mubiri bararwaye.",
+    "score": 2,
+    "language": "kin",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Pregnant women should eat diverse foods including fruits, vegetables, proteins like beans and meat, dairy products, and take supplements like folic acid.",
+    "student_answer": "This is not related to what I learned.",
+    "score": 1,
+    "language": "en",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "The main malaria prevention methods include using insecticide-treated bed nets, indoor residual spraying, eliminating stagnant water, using repellents, and seeking early treatment.",
+    "student_answer": "The main malaria prevention methods include using insecticide-treated bed nets, indoor",
+    "score": 2,
+    "language": "en",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "Uburyo bwo kurinda malariya ni ukoresha ubunyangamugayo bwemewe, gusiga amabuye y'ubuvuzi mu nzu, gusiba amazi atemba, gukoresha ibikoresho byo kurinda inzige, no gufata ubuvuzi vuba.",
+    "student_answer": "Kurinda malariya dukwiye gukoresha ubunyangamugayo buri joro, gusiga amabuye y'ubuvuzi mu nzu, gusiba amazi atemba, gukoresha ibikoresho byo kurinda inzige, no kujya ku kigo nderabuzima iyo dufite umuriro.",
+    "score": 5,
+    "language": "kin",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "Proper hand hygiene involves washing hands with soap and clean water for at least 20 seconds, especially before eating and after using the toilet.",
+    "student_answer": "Proper hand hygiene involves washing hands with soap and clean",
+    "score": 2,
+    "language": "en",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "Abagore batwite bagomba kurya ibiryo bitandukanye birimo imbuto n'imboga, ibiryo by'ubwoko nka ibishyimbo n'inyama, ibiryo by'ubworozi, no gufata ibikoresho nka folic acid.",
+    "student_answer": "Abagore batwite bagomba kurya ibiryo.",
+    "score": 2,
+    "language": "kin",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "Vaccination is important because it protects children from serious diseases, prevents outbreaks, and saves lives by building immunity.",
+    "student_answer": "Vaccination helps children.",
+    "score": 2,
+    "language": "en",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Ubwishingizi ni ngombwa kuko burinda abana indwara zikomeye, burinda indwara kubyongera, kandi buraba ubuzima dushyiraho ubwishingizi.",
+    "student_answer": "Ubwishingizi bufasha abana.",
+    "score": 2,
+    "language": "kin",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Vaccination is important because it protects children from serious diseases, prevents outbreaks, and saves lives by building immunity.",
+    "student_answer": "This is not related to what I learned.",
+    "score": 1,
+    "language": "en",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Ibimenyetso byo kutagira amazi mu mubiri by'abana ni umunwa utose, amaso yatse, kudashobora kw'ijoro, no kuba banyoroshye.",
+    "student_answer": "Nkeneye kwiga kurushaho kuri iki kigize.",
+    "score": 1,
+    "language": "kin",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Gukaraba amaboko neza ni ukubyongera amaboko doreye n'isabuni n'amazi meza amasegonda 20, cyane cyane mbere yo kurya n'inyuma yo gukoresha ubwiherero.",
+    "student_answer": "Nkeneye kwiga kurushaho kuri iki kigize.",
+    "score": 1,
+    "language": "kin",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "Ubwishingizi ni ngombwa kuko burinda abana indwara zikomeye, burinda indwara kubyongera, kandi buraba ubuzima dushyiraho ubwishingizi.",
+    "student_answer": "Ubwishingizi ni ngombwa kuko burinda abana",
+    "score": 3,
+    "language": "kin",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Ibimenyetso byo kutagira amazi mu mubiri by'abana ni umunwa utose, amaso yatse, kudashobora kw'ijoro, no kuba banyoroshye.",
+    "student_answer": "Abana bwerekana ko batagira amazi mu mubiri binyuze mu munwa utose, amaso yatse, kudashobora kw'ijoro, no kuba banyoroshye cyane.",
+    "score": 5,
+    "language": "kin",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Signs of dehydration in children include dry mouth, sunken eyes, reduced urination, and lethargy.",
+    "student_answer": "I don't know the signs of dehydration.",
+    "score": 1,
+    "language": "en",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Proper hand hygiene involves washing hands with soap and clean water for at least 20 seconds, especially before eating and after using the toilet.",
+    "student_answer": "I need to study more about this topic.",
+    "score": 1,
+    "language": "en",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "Signs of dehydration in children include dry mouth, sunken eyes, reduced urination, and lethargy.",
+    "student_answer": "Dehydration symptoms in children are dry mouth, sunken eyes, decreased urination, and extreme tiredness.",
+    "score": 5,
+    "language": "en",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Ubwishingizi ni ngombwa kuko burinda abana indwara zikomeye, burinda indwara kubyongera, kandi buraba ubuzima dushyiraho ubwishingizi.",
+    "student_answer": "Ubwishingizi ni ngombwa kuko burinda",
+    "score": 2,
+    "language": "kin",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Pregnant women should eat diverse foods including fruits, vegetables, proteins like beans and meat, dairy products, and take supplements like folic acid.",
+    "student_answer": "Pregnant women should eat diverse foods including fruits, vegetables,",
+    "score": 2,
+    "language": "en",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "Signs of dehydration in children include dry mouth, sunken eyes, reduced urination, and lethargy.",
+    "student_answer": "I don't know the answer to this question.",
+    "score": 1,
+    "language": "en",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Gukaraba amaboko neza ni ukubyongera amaboko doreye n'isabuni n'amazi meza amasegonda 20, cyane cyane mbere yo kurya n'inyuma yo gukoresha ubwiherero.",
+    "student_answer": "Gukaraba amaboko neza ni ukubyongera amaboko doreye",
+    "score": 2,
+    "language": "kin",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "Vaccination is important because it protects children from serious diseases, prevents outbreaks, and saves lives by building immunity.",
+    "student_answer": "Vaccination is important because it protects children",
+    "score": 3,
+    "language": "en",
+    "topic": "vaccination_importance"
+  },
+  {
+    "reference_answer": "Ibimenyetso byo kutagira amazi mu mubiri by'abana ni umunwa utose, amaso yatse, kudashobora kw'ijoro, no kuba banyoroshye.",
+    "student_answer": "Sinzi ibimenyetso byo kutagira amazi mu mubiri.",
+    "score": 1,
+    "language": "kin",
+    "topic": "dehydration_signs"
+  },
+  {
+    "reference_answer": "Uburyo bwo kurinda malariya ni ukoresha ubunyangamugayo bwemewe, gusiga amabuye y'ubuvuzi mu nzu, gusiba amazi atemba, gukoresha ibikoresho byo kurinda inzige, no gufata ubuvuzi vuba.",
+    "student_answer": "Nkeneye kwiga kurushaho kuri iki kigize.",
+    "score": 1,
+    "language": "kin",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "Gukaraba amaboko neza ni ukubyongera amaboko doreye n'isabuni n'amazi meza amasegonda 20, cyane cyane mbere yo kurya n'inyuma yo gukoresha ubwiherero.",
+    "student_answer": "Gukaraba amaboko neza ni ukubyongera isabuni n'amazi meza amasegonda 20, mbere yo kurya n'inyuma yo gukoresha ubwiherero.",
+    "score": 5,
+    "language": "kin",
+    "topic": "hand_hygiene"
+  },
+  {
+    "reference_answer": "Pregnant women should eat diverse foods including fruits, vegetables, proteins like beans and meat, dairy products, and take supplements like folic acid.",
+    "student_answer": "I don't know what pregnant women should eat.",
+    "score": 1,
+    "language": "en",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "The main malaria prevention methods include using insecticide-treated bed nets, indoor residual spraying, eliminating stagnant water, using repellents, and seeking early treatment.",
+    "student_answer": "To prevent malaria, we should use treated bed nets every night, spray homes with insecticide, remove standing water, use repellent creams, and go to health center when we have fever.",
+    "score": 5,
+    "language": "en",
+    "topic": "malaria_prevention"
+  },
+  {
+    "reference_answer": "Abagore batwite bagomba kurya ibiryo bitandukanye birimo imbuto n'imboga, ibiryo by'ubwoko nka ibishyimbo n'inyama, ibiryo by'ubworozi, no gufata ibikoresho nka folic acid.",
+    "student_answer": "Sinzi ibyo abagore batwite bagomba kurya.",
+    "score": 1,
+    "language": "kin",
+    "topic": "pregnancy_nutrition"
+  },
+  {
+    "reference_answer": "Gukaraba amaboko neza ni ukubyongera amaboko doreye n'isabuni n'amazi meza amasegonda 20, cyane cyane mbere yo kurya n'inyuma yo gukoresha ubwiherero.",
+    "student_answer": "Gukaraba amaboko neza ni ukubyongera amaboko doreye",
+    "score": 2,
+    "language": "kin",
+    "topic": "hand_hygiene"
+  }
+]
